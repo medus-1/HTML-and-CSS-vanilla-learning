@@ -3,6 +3,8 @@ Learning frontend with vanilla HTML5 and CSS3.
 
 List of projects:
 
-1.automative-car
+1. Automative-car
 
-2.Restaurant
+2. Restaurant
+
+3. Shoe-footwear
