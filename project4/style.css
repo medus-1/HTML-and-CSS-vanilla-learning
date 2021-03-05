@@ -89,14 +89,23 @@ img {
     margin: 3rem 0;
 }
 
+img.shadow-reverse {
+    box-shadow: -15px -15px #a66000;
+}
+
 .block {
     font-size: 3rem;
     display: block;
+    margin-top: 3rem;
     text-align: center;
 }
 
 @media screen and (max-width: 768px) {
     h1 {
+        text-align: center;
+    }
+
+    .col {
         text-align: center;
     }
 
