@@ -12,3 +12,5 @@ List of projects:
 4. Fashion
 
 5. Tourism Landscape
+
+6. Newspaper
