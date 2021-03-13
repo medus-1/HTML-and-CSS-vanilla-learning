@@ -14,3 +14,5 @@ List of projects:
 5. Tourism Landscape
 
 6. Newspaper
+
+7. Legal
