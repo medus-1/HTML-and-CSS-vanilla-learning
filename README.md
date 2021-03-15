@@ -11,10 +11,12 @@ List of projects:
 
 4. Fashion
 
-5. Tourism Landscape
+5. Tourism-landscape
 
 6. Newspaper
 
 7. Legal
 
-8. TV streaming
+8. TV-streaming
+
+9. Technology
