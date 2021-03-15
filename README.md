@@ -1,5 +1,5 @@
 # HTML-and-CSS-vanilla-learning
-Learning frontend with vanilla HTML5 and CSS3.
+Learning frontend with vanilla HTML5 and CSS3. Each projct have only only page and it is mostly a design.
 
 List of projects:
 
@@ -16,3 +16,5 @@ List of projects:
 6. Newspaper
 
 7. Legal
+
+8. TV streaming
