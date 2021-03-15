@@ -1,5 +1,5 @@
 # HTML-and-CSS-vanilla-learning
-Learning frontend with vanilla HTML5 and CSS3. Each projct have only only page and it is mostly a design.
+Learning frontend with vanilla HTML5 and CSS3. Each projct have only one page and it is mostly a design.
 
 List of projects:
 
